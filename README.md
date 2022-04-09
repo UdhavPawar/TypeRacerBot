@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/28740403/162593493-601887de-c133-4501-
 
 https://user-images.githubusercontent.com/28740403/162593498-32e26174-5e7f-463b-875e-bd325b755713.mov
 
-> note: you manipulate bot's typing speed by updating it's typing [delay](https://github.com/UdhavPawar/TypeRacerBot/blob/master/bot.py#L35) 
+> note: you can manipulate bot's typing speed by updating it's typing [delay](https://github.com/UdhavPawar/TypeRacerBot/blob/master/bot.py#L35) [Default: 200+ WPM]
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change/fix.
