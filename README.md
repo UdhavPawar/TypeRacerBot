@@ -30,6 +30,8 @@
 > checkout my [portfolio](https://udhavpawar.com/) to learn more about this project
 
 ## Installation
+> git clone repo
+
 ![git clone repo](./svgs/installation.svg)
 
 ## How To Use
