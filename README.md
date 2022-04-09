@@ -27,7 +27,10 @@
 4. We polish the output string and text is now ready to be typed
 5. Finally we simulate typing of this string using pynput.keyboard which will iterate over every character in string and type it out
 ```
-> checkout my [portfolio](https://udhavpawar.com/) to learn more about this project
+> below is bot typing a practice test
+
+https://user-images.githubusercontent.com/28740403/162593493-601887de-c133-4501-a76e-eb28419d7747.mov
+
 
 ## Installation
 > git clone repo
@@ -35,10 +38,17 @@
 ![git clone repo](./svgs/installation.svg)
 
 ## How To Use
+> below is bot winning 🏆 a real-time multi-player typing race 🏎️
 
+https://user-images.githubusercontent.com/28740403/162593498-32e26174-5e7f-463b-875e-bd325b755713.mov
+
+> note: you manipulate bot's typing speed by updating it's typing [delay](https://github.com/UdhavPawar/TypeRacerBot/blob/master/bot.py#L35) 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change/fix.
 
 ## License
 [MIT](https://github.com/UdhavPawar/TypeRacerBot/blob/master/LICENSE)
+
+## Other Projects
+Checkout my [portfolio](https://udhavpawar.com/) to learn more about this and other projects
