@@ -21,11 +21,11 @@
 
 ## How it works
 ```
-1. Using pynput.mouse we get co-ordinates (pixels) selected on screen using mouse
-2. Then an in-place (not saved anywhere) screenshot is captured of for those pixels using pyscreenshot.grab
-3. This screenshot acts as input for pytesseract's image_to_string function which converts image to string
-4. We polish the output string and text is ready to be typed
-5. Then we simulate typing of this string using pynput.keyboard which will iterate over every character in string and type it out
+1. Using pynput.mouse we get co-ordinates (pixels) of selected screen using mouse
+2. Next an in-place (not saved locally) screenshot is captured of those pixels using pyscreenshot.grab
+3. This screenshot acts as input for pytesseract.image_to_string function which converts image to string
+4. We polish the output string and text is now ready to be typed
+5. Finally we simulate typing of this string using pynput.keyboard which will iterate over every character in string and type it out
 ```
 > checkout my [portfolio](https://udhavpawar.com/) to learn more about this project
 
