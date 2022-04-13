@@ -38,6 +38,14 @@ https://user-images.githubusercontent.com/28740403/162593493-601887de-c133-4501-
 ![git clone repo](./svgs/installation.svg)
 
 ## How To Use
+Usage is pretty simple as following:
+1. Start the bot by running command `python3 bot.py`
+2. Using your mouse draw a rectangle around text as shown below
+
+![select_text_using_mouse](https://user-images.githubusercontent.com/28740403/163098875-6c1e9480-ab9c-4aaa-be98-f4a4e3b41a79.png)
+
+3. Bot will show text it has converted from image to text and ready to type
+4. Place your cursor where you want to type and hit _backspace_ key
 > below is bot winning 🏆 a real-time multi-player typing race 🏎️
 
 https://user-images.githubusercontent.com/28740403/162593498-32e26174-5e7f-463b-875e-bd325b755713.mov
