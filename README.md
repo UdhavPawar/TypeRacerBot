@@ -59,4 +59,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://github.com/UdhavPawar/TypeRacerBot/blob/master/LICENSE)
 
 ## Other Projects
-Checkout my [portfolio](https://udhavpawar.com/) to learn more about this and other projects
+Checkout my [portfolio](https://udhav.com/) to learn more about this and other projects
