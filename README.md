@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center"><a href="https://github.com/UdhavPawar/TypeRacerBot">Type Racer Bot</a></h1>
 <!-- Description -->
-<h3 align="center">Win every <a href="https://play.typeracer.com/" target="_blank">typing</a> race with 200+ words per minute</h3>
+<h3 align="center">Win every <a href="https://play.typeracer.com/" target="_blank">typing</a> race without typing</h3>
 
 <!-- Labels -->
 <p align="center">
